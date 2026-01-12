@@ -1,13 +1,13 @@
 **Gestion de Cahier de Texte (Windows Forms - C#)**:
 ____________
-**Description**:
+## Description:
 Ce projet est **une application Windows Forms en C# permettant la gestion d’un cahier de texte scolaire**.  
 Il facilite l’organisation **des classes**, **des matières** et **des professeurs** à travers une interface simple et intuitive.
 
 L’application est composée de **trois formulaires principaux**, chacun dédié à une entité spécifique.
 ____________
 
-**Technologies utilisées**:
+## Technologies utilisées:
 
 - Langage : C#
 - Framework : .NET (Windows Forms)
@@ -15,7 +15,7 @@ ____________
 - Gestion de version : Git & GitHub
 ____________
 
-**Structure du projet**:
+## Structure du projet:
 
 GestionCahierTexte/
 │── GestionCahierTexte.sln
@@ -26,7 +26,7 @@ GestionCahierTexte/
 ├── Professeur.cs
 ____________
 
-**Fonctionnalités**:
+## Fonctionnalités:
 
 Gestion des Classes **(Classe.cs)**
 Ce formulaire permet de :
