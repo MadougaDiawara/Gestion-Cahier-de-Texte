@@ -111,6 +111,11 @@ namespace GestionCahierTexte.View.Pamettre
         {
 
         }
+
+        private void dgvClasse_CellContentClick(object sender, DataGridViewCellEventArgs e)
+        {
+
+        }
     }
     
 }

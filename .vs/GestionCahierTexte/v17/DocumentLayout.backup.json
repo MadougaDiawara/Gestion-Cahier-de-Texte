@@ -3,28 +3,40 @@
   "WorkspaceRootPath": "C:\\Users\\hp\\source\\repos\\GestionCahierTexte\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{157ED986-082A-4F41-970B-498D545DD059}|GestionCahierTexte\\GestionCahierTexte.csproj|c:\\users\\hp\\source\\repos\\gestioncahiertexte\\gestioncahiertexte\\view\\pamettre\\frmmatiere.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "AbsoluteMoniker": "D:0:0:{157ED986-082A-4F41-970B-498D545DD059}|GestionCahierTexte\\GestionCahierTexte.csproj|C:\\Users\\hp\\source\\repos\\GestionCahierTexte\\gestioncahiertexte\\view\\pamettre\\frmmatiere.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
       "RelativeMoniker": "D:0:0:{157ED986-082A-4F41-970B-498D545DD059}|GestionCahierTexte\\GestionCahierTexte.csproj|solutionrelative:gestioncahiertexte\\view\\pamettre\\frmmatiere.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{157ED986-082A-4F41-970B-498D545DD059}|GestionCahierTexte\\GestionCahierTexte.csproj|C:\\Users\\hp\\source\\repos\\GestionCahierTexte\\gestioncahiertexte\\view\\pamettre\\frmmatiere.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{157ED986-082A-4F41-970B-498D545DD059}|GestionCahierTexte\\GestionCahierTexte.csproj|solutionrelative:gestioncahiertexte\\view\\pamettre\\frmmatiere.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{157ED986-082A-4F41-970B-498D545DD059}|GestionCahierTexte\\GestionCahierTexte.csproj|C:\\Users\\hp\\source\\repos\\GestionCahierTexte\\gestioncahiertexte\\view\\pamettre\\frmclasse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{157ED986-082A-4F41-970B-498D545DD059}|GestionCahierTexte\\GestionCahierTexte.csproj|solutionrelative:gestioncahiertexte\\view\\pamettre\\frmclasse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{157ED986-082A-4F41-970B-498D545DD059}|GestionCahierTexte\\GestionCahierTexte.csproj|c:\\users\\hp\\source\\repos\\gestioncahiertexte\\gestioncahiertexte\\view\\pamettre\\frmclasse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{157ED986-082A-4F41-970B-498D545DD059}|GestionCahierTexte\\GestionCahierTexte.csproj|solutionrelative:gestioncahiertexte\\view\\pamettre\\frmclasse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
     },
     {
       "AbsoluteMoniker": "D:0:0:{157ED986-082A-4F41-970B-498D545DD059}|GestionCahierTexte\\GestionCahierTexte.csproj|C:\\Users\\hp\\source\\repos\\GestionCahierTexte\\gestioncahiertexte\\view\\pamettre\\frmprofesseur.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
       "RelativeMoniker": "D:0:0:{157ED986-082A-4F41-970B-498D545DD059}|GestionCahierTexte\\GestionCahierTexte.csproj|solutionrelative:gestioncahiertexte\\view\\pamettre\\frmprofesseur.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
     },
     {
+      "AbsoluteMoniker": "D:0:0:{157ED986-082A-4F41-970B-498D545DD059}|GestionCahierTexte\\GestionCahierTexte.csproj|C:\\Users\\hp\\source\\repos\\GestionCahierTexte\\gestioncahiertexte\\.gitignore||{3B902123-F8A7-4915-9F01-361F908088D0}",
+      "RelativeMoniker": "D:0:0:{157ED986-082A-4F41-970B-498D545DD059}|GestionCahierTexte\\GestionCahierTexte.csproj|solutionrelative:gestioncahiertexte\\.gitignore||{3B902123-F8A7-4915-9F01-361F908088D0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{157ED986-082A-4F41-970B-498D545DD059}|GestionCahierTexte\\GestionCahierTexte.csproj|C:\\Users\\hp\\source\\repos\\GestionCahierTexte\\gestioncahiertexte\\view\\pamettre\\frmprofesseur.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{157ED986-082A-4F41-970B-498D545DD059}|GestionCahierTexte\\GestionCahierTexte.csproj|solutionrelative:gestioncahiertexte\\view\\pamettre\\frmprofesseur.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{157ED986-082A-4F41-970B-498D545DD059}|GestionCahierTexte\\GestionCahierTexte.csproj|C:\\Users\\hp\\source\\repos\\GestionCahierTexte\\gestioncahiertexte\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{157ED986-082A-4F41-970B-498D545DD059}|GestionCahierTexte\\GestionCahierTexte.csproj|solutionrelative:gestioncahiertexte\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{157ED986-082A-4F41-970B-498D545DD059}|GestionCahierTexte\\GestionCahierTexte.csproj|C:\\Users\\hp\\source\\repos\\GestionCahierTexte\\gestioncahiertexte\\view\\pamettre\\frmclasse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
-      "RelativeMoniker": "D:0:0:{157ED986-082A-4F41-970B-498D545DD059}|GestionCahierTexte\\GestionCahierTexte.csproj|solutionrelative:gestioncahiertexte\\view\\pamettre\\frmclasse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{157ED986-082A-4F41-970B-498D545DD059}|GestionCahierTexte\\GestionCahierTexte.csproj|C:\\Users\\hp\\source\\repos\\GestionCahierTexte\\gestioncahiertexte\\frmconnexion.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{157ED986-082A-4F41-970B-498D545DD059}|GestionCahierTexte\\GestionCahierTexte.csproj|solutionrelative:gestioncahiertexte\\frmconnexion.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{157ED986-082A-4F41-970B-498D545DD059}|GestionCahierTexte\\GestionCahierTexte.csproj|C:\\Users\\hp\\source\\repos\\GestionCahierTexte\\gestioncahiertexte\\view\\pamettre\\frmclasse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{157ED986-082A-4F41-970B-498D545DD059}|GestionCahierTexte\\GestionCahierTexte.csproj|solutionrelative:gestioncahiertexte\\view\\pamettre\\frmclasse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{157ED986-082A-4F41-970B-498D545DD059}|GestionCahierTexte\\GestionCahierTexte.csproj|C:\\Users\\hp\\source\\repos\\GestionCahierTexte\\gestioncahiertexte\\frmconnexion.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
@@ -45,14 +57,6 @@
     {
       "AbsoluteMoniker": "D:0:0:{157ED986-082A-4F41-970B-498D545DD059}|GestionCahierTexte\\GestionCahierTexte.csproj|C:\\Users\\hp\\source\\repos\\GestionCahierTexte\\gestioncahiertexte\\view\\pamettre\\frmclasse.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{157ED986-082A-4F41-970B-498D545DD059}|GestionCahierTexte\\GestionCahierTexte.csproj|solutionrelative:gestioncahiertexte\\view\\pamettre\\frmclasse.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{157ED986-082A-4F41-970B-498D545DD059}|GestionCahierTexte\\GestionCahierTexte.csproj|C:\\Users\\hp\\source\\repos\\GestionCahierTexte\\gestioncahiertexte\\view\\pamettre\\frmprofesseur.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{157ED986-082A-4F41-970B-498D545DD059}|GestionCahierTexte\\GestionCahierTexte.csproj|solutionrelative:gestioncahiertexte\\view\\pamettre\\frmprofesseur.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{157ED986-082A-4F41-970B-498D545DD059}|GestionCahierTexte\\GestionCahierTexte.csproj|C:\\Users\\hp\\source\\repos\\GestionCahierTexte\\gestioncahiertexte\\view\\pamettre\\frmmatiere.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{157ED986-082A-4F41-970B-498D545DD059}|GestionCahierTexte\\GestionCahierTexte.csproj|solutionrelative:gestioncahiertexte\\view\\pamettre\\frmmatiere.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -62,22 +66,11 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 2,
+          "SelectedChildIndex": 1,
           "Children": [
             {
               "$type": "Bookmark",
               "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "frmClasse.cs [Design]",
-              "DocumentMoniker": "C:\\Users\\hp\\source\\repos\\GestionCahierTexte\\GestionCahierTexte\\View\\Pamettre\\frmClasse.cs",
-              "RelativeDocumentMoniker": "GestionCahierTexte\\View\\Pamettre\\frmClasse.cs",
-              "ToolTip": "C:\\Users\\hp\\source\\repos\\GestionCahierTexte\\GestionCahierTexte\\View\\Pamettre\\frmClasse.cs [Design]",
-              "RelativeToolTip": "GestionCahierTexte\\View\\Pamettre\\frmClasse.cs [Design]",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-12-01T09:00:54.113Z"
             },
             {
               "$type": "Document",
@@ -93,18 +86,83 @@
             },
             {
               "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "frmClasse.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\hp\\source\\repos\\GestionCahierTexte\\GestionCahierTexte\\View\\Pamettre\\frmClasse.cs",
+              "RelativeDocumentMoniker": "GestionCahierTexte\\View\\Pamettre\\frmClasse.cs",
+              "ToolTip": "C:\\Users\\hp\\source\\repos\\GestionCahierTexte\\GestionCahierTexte\\View\\Pamettre\\frmClasse.cs [Design]",
+              "RelativeToolTip": "GestionCahierTexte\\View\\Pamettre\\frmClasse.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-01T09:00:54.113Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
               "DocumentIndex": 1,
+              "Title": "frmMatiere.cs",
+              "DocumentMoniker": "C:\\Users\\hp\\source\\repos\\GestionCahierTexte\\GestionCahierTexte\\View\\Pamettre\\frmMatiere.cs",
+              "RelativeDocumentMoniker": "GestionCahierTexte\\View\\Pamettre\\frmMatiere.cs",
+              "ToolTip": "C:\\Users\\hp\\source\\repos\\GestionCahierTexte\\GestionCahierTexte\\View\\Pamettre\\frmMatiere.cs",
+              "RelativeToolTip": "GestionCahierTexte\\View\\Pamettre\\frmMatiere.cs",
+              "ViewState": "AgIAABEAAAAAAAAAAAAIwCgAAAASAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-01T06:47:13.77Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "frmClasse.cs",
+              "DocumentMoniker": "C:\\Users\\hp\\source\\repos\\GestionCahierTexte\\GestionCahierTexte\\View\\Pamettre\\frmClasse.cs",
+              "RelativeDocumentMoniker": "GestionCahierTexte\\View\\Pamettre\\frmClasse.cs",
+              "ToolTip": "C:\\Users\\hp\\source\\repos\\GestionCahierTexte\\GestionCahierTexte\\View\\Pamettre\\frmClasse.cs",
+              "RelativeToolTip": "GestionCahierTexte\\View\\Pamettre\\frmClasse.cs",
+              "ViewState": "AgIAAFIAAAAAAAAAAAASwFMAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-01T07:31:20.262Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
               "Title": "frmProfesseur.cs [Design]",
               "DocumentMoniker": "C:\\Users\\hp\\source\\repos\\GestionCahierTexte\\GestionCahierTexte\\View\\Pamettre\\frmProfesseur.cs",
               "RelativeDocumentMoniker": "GestionCahierTexte\\View\\Pamettre\\frmProfesseur.cs",
               "ToolTip": "C:\\Users\\hp\\source\\repos\\GestionCahierTexte\\GestionCahierTexte\\View\\Pamettre\\frmProfesseur.cs [Design]",
               "RelativeToolTip": "GestionCahierTexte\\View\\Pamettre\\frmProfesseur.cs [Design]",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-12-01T06:23:30.043Z"
+              "WhenOpened": "2025-12-01T06:23:30.043Z",
+              "EditorCaption": " [Design]"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 5,
+              "Title": ".gitignore",
+              "DocumentMoniker": "C:\\Users\\hp\\source\\repos\\GestionCahierTexte\\GestionCahierTexte\\.gitignore",
+              "RelativeDocumentMoniker": "GestionCahierTexte\\.gitignore",
+              "ToolTip": "C:\\Users\\hp\\source\\repos\\GestionCahierTexte\\GestionCahierTexte\\.gitignore",
+              "RelativeToolTip": "GestionCahierTexte\\.gitignore",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2026-01-12T03:54:46.64Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "frmProfesseur.cs",
+              "DocumentMoniker": "C:\\Users\\hp\\source\\repos\\GestionCahierTexte\\GestionCahierTexte\\View\\Pamettre\\frmProfesseur.cs",
+              "RelativeDocumentMoniker": "GestionCahierTexte\\View\\Pamettre\\frmProfesseur.cs",
+              "ToolTip": "C:\\Users\\hp\\source\\repos\\GestionCahierTexte\\GestionCahierTexte\\View\\Pamettre\\frmProfesseur.cs",
+              "RelativeToolTip": "GestionCahierTexte\\View\\Pamettre\\frmProfesseur.cs",
+              "ViewState": "AgIAACkAAAAAAAAAAAASwDYAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-01T09:29:52.07Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\hp\\source\\repos\\GestionCahierTexte\\GestionCahierTexte\\Program.cs",
               "RelativeDocumentMoniker": "GestionCahierTexte\\Program.cs",
@@ -116,7 +174,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 8,
               "Title": "frmConnexion.cs",
               "DocumentMoniker": "C:\\Users\\hp\\source\\repos\\GestionCahierTexte\\GestionCahierTexte\\frmConnexion.cs",
               "RelativeDocumentMoniker": "GestionCahierTexte\\frmConnexion.cs",
@@ -128,19 +186,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
-              "Title": "frmClasse.cs",
-              "DocumentMoniker": "C:\\Users\\hp\\source\\repos\\GestionCahierTexte\\GestionCahierTexte\\View\\Pamettre\\frmClasse.cs",
-              "RelativeDocumentMoniker": "GestionCahierTexte\\View\\Pamettre\\frmClasse.cs",
-              "ToolTip": "C:\\Users\\hp\\source\\repos\\GestionCahierTexte\\GestionCahierTexte\\View\\Pamettre\\frmClasse.cs",
-              "RelativeToolTip": "GestionCahierTexte\\View\\Pamettre\\frmClasse.cs",
-              "ViewState": "AgIAABoAAAAAAAAAAAA9wCUAAAAeAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-12-01T07:31:20.262Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 6,
+              "DocumentIndex": 9,
               "Title": "frmConnexion.cs [Design]",
               "DocumentMoniker": "C:\\Users\\hp\\source\\repos\\GestionCahierTexte\\GestionCahierTexte\\frmConnexion.cs",
               "RelativeDocumentMoniker": "GestionCahierTexte\\frmConnexion.cs",
@@ -151,7 +197,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 8,
+              "DocumentIndex": 11,
               "Title": "frmMdi.cs",
               "DocumentMoniker": "C:\\Users\\hp\\source\\repos\\GestionCahierTexte\\GestionCahierTexte\\frmMdi.cs",
               "RelativeDocumentMoniker": "GestionCahierTexte\\frmMdi.cs",
@@ -163,7 +209,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 7,
+              "DocumentIndex": 10,
               "Title": "frmProfesseur.Designer.cs",
               "DocumentMoniker": "C:\\Users\\hp\\source\\repos\\GestionCahierTexte\\GestionCahierTexte\\View\\Pamettre\\frmProfesseur.Designer.cs",
               "RelativeDocumentMoniker": "GestionCahierTexte\\View\\Pamettre\\frmProfesseur.Designer.cs",
@@ -171,23 +217,12 @@
               "RelativeToolTip": "GestionCahierTexte\\View\\Pamettre\\frmProfesseur.Designer.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAFEAAAB5AAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-12-01T09:46:35.377Z"
+              "WhenOpened": "2025-12-01T09:46:35.377Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 11,
-              "Title": "frmProfesseur.cs",
-              "DocumentMoniker": "C:\\Users\\hp\\source\\repos\\GestionCahierTexte\\GestionCahierTexte\\View\\Pamettre\\frmProfesseur.cs",
-              "RelativeDocumentMoniker": "GestionCahierTexte\\View\\Pamettre\\frmProfesseur.cs",
-              "ToolTip": "C:\\Users\\hp\\source\\repos\\GestionCahierTexte\\GestionCahierTexte\\View\\Pamettre\\frmProfesseur.cs",
-              "RelativeToolTip": "GestionCahierTexte\\View\\Pamettre\\frmProfesseur.cs",
-              "ViewState": "AgIAAGAAAAAAMzMzMzMvwHoAAAANAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-12-01T09:29:52.07Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 9,
+              "DocumentIndex": 12,
               "Title": "frmMdi.cs [Design]",
               "DocumentMoniker": "C:\\Users\\hp\\source\\repos\\GestionCahierTexte\\GestionCahierTexte\\frmMdi.cs",
               "RelativeDocumentMoniker": "GestionCahierTexte\\frmMdi.cs",
@@ -198,7 +233,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 10,
+              "DocumentIndex": 13,
               "Title": "frmClasse.Designer.cs",
               "DocumentMoniker": "C:\\Users\\hp\\source\\repos\\GestionCahierTexte\\GestionCahierTexte\\View\\Pamettre\\frmClasse.Designer.cs",
               "RelativeDocumentMoniker": "GestionCahierTexte\\View\\Pamettre\\frmClasse.Designer.cs",
@@ -207,18 +242,6 @@
               "ViewState": "AgIAADcAAAAAAAAAAAAAAEYAAABlAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-12-01T08:34:28.235Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 12,
-              "Title": "frmMatiere.cs",
-              "DocumentMoniker": "C:\\Users\\hp\\source\\repos\\GestionCahierTexte\\GestionCahierTexte\\View\\Pamettre\\frmMatiere.cs",
-              "RelativeDocumentMoniker": "GestionCahierTexte\\View\\Pamettre\\frmMatiere.cs",
-              "ToolTip": "C:\\Users\\hp\\source\\repos\\GestionCahierTexte\\GestionCahierTexte\\View\\Pamettre\\frmMatiere.cs",
-              "RelativeToolTip": "GestionCahierTexte\\View\\Pamettre\\frmMatiere.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAFUAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-12-01T06:47:13.77Z"
             }
           ]
         }
